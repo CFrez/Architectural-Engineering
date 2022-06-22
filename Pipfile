@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 streamlit = "==0.75.0"
 pandas = "==1.2.0"
-numpy = "==1.19.0"
+numpy = "==1.22.0"
 plotly = "==4.13"
 sympy = "==1.7.1"
 tabulate = "==0.8.7"
